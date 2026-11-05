@@ -1,0 +1,11 @@
+build:
+  version: 1.0
+author:
+  name: "Voiture"
+  email: "voiture@exemple.com"
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: busrefresh
