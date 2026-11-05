@@ -1,0 +1,5 @@
+build:
+  version: 3.0
+author:
+  name: "Marque [QA]"
+  email: "marque_QA@exemple.com"

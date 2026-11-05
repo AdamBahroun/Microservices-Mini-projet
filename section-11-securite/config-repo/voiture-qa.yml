@@ -1,0 +1,5 @@
+build:
+  version: 3.0
+author:
+  name: "Voiture [QA]"
+  email: "voiture_QA@exemple.com"
